@@ -1,7 +1,7 @@
 # Machine Learning Case Studies
 
 ## 1 - Question Pairs Analysis
-* Predict whether a pair of questions are duplicates or not. This could be useful to instantly provide answers to questions that have already been answered.
+* Predict whether a pair of questions are duplicates or not.
 * Source : https://www.kaggle.com/c/quora-question-pairs
 
 ## 2 - Personalized Medicine: Redefining Cancer Treatment
